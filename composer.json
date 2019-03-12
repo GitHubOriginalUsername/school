@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fxp/composer-asset-plugin": "*",
+        "yiisoft/yii2": "*"
+    }
+}
