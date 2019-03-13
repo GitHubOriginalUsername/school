@@ -7,6 +7,6 @@ class SiteController extends Controller
 {
     public function actionIndex()
     {
-        return 'Videoschool';
+        return $this->render('index');
     }
 }
